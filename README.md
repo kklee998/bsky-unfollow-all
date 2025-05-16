@@ -8,7 +8,7 @@ Here is a hosted version of the script on Val Town: [https://www.val.town/x/kkle
 Alternatively, if you have Docker:
 
 ```bash
-docker run --rm ghcr.io/kklee998/bsky-unfollow-all --identifier your-handle.bsky.social --password your-app-password
+docker run --rm ghcr.io/kklee998/bsky-unfollow-all:latest --identifier your-handle.bsky.social --password your-app-password
 ```
 
 # Getting started
